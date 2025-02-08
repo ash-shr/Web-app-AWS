@@ -1,4 +1,4 @@
-# AWS Project - End-to-End Web Application
+# AWS Project - End-to-End Web-Application
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
 
