@@ -1,7 +1,16 @@
 # AWS Project - End-to-End Web-Application
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
+<img width="346" alt="Screenshot 2025-01-29 at 16 17 21" src="https://github.com/user-attachments/assets/f5cf10fc-6184-47bc-8c3a-51bb3816f32a" />
 
+
+<img width="349" alt="Screenshot 2025-01-29 at 16 17 46" src="https://github.com/user-attachments/assets/70b6258f-76fa-4905-8c6e-c7136f3c3e0c" />
+
+
+<img width="1462" alt="Screenshot 2025-02-10 at 20 52 21" src="https://github.com/user-attachments/assets/0775747a-2d96-4fca-adba-2909514b595f" />
+
+
+<img width="1466" alt="Screenshot 2025-02-10 at 20 52 45" src="https://github.com/user-attachments/assets/3a350a7a-2fa3-4ecf-aea8-11d35a906f7c" />
 ## TL;DR
 We're creating a web application for a unicorn ride-sharing service called Wild Rydes (from the original [Amazon workshop](https://aws.amazon.com/serverless-workshops)).  The app uses IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB, with code stored in GitHub and incorporated into a CI/CD pipeline with Amplify.
 
@@ -9,6 +18,7 @@ The app will let you create an account and log in, then request a ride by clicki
 
 ## Cost
 All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  Outside of the Free Tier, there may be small charges associated with building the app (less than $1 USD), but charges will continue to incur if you leave the app running.  Please see the end of the YouTube video for instructions on how to delete all resources used in the video.
+
 
 ## The Application Code
 The application code is here in this repository.
