@@ -1,13 +1,13 @@
 # AWS Project - End-to-End Web-Application
 
-This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
-
-
 <img width="1462" alt="Screenshot 2025-02-10 at 20 52 21" src="https://github.com/user-attachments/assets/0775747a-2d96-4fca-adba-2909514b595f" />
+
 
 
 <img width="1466" alt="Screenshot 2025-02-10 at 20 52 45" src="https://github.com/user-attachments/assets/3a350a7a-2fa3-4ecf-aea8-11d35a906f7c" />
 
+Note: 
+This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
 
 ## TL;DR
 We're creating a web application for a unicorn ride-sharing service called Wild Rydes (from the original [Amazon workshop](https://aws.amazon.com/serverless-workshops)).  The app uses IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB, with code stored in GitHub and incorporated into a CI/CD pipeline with Amplify.
