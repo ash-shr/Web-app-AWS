@@ -39,7 +39,7 @@ const fleet = [
 ];
 
 export const handler = async (event, context) => {
-    if (!event.requestContext.authorizer) {
+    if (!event.requestContext.authorizer) { 
         return errorResponse('Authorization not configured', context.awsRequestId);
     }
 
