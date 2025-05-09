@@ -1,7 +1,7 @@
  # AWS Project - End-to-End Web-Application 
 
 <img width="1462" alt="Screenshot 2025-02-10 at 20 52 21" src="https://github.com/user-attachments/assets/0775747a-2d96-4fca-adba-2909514b595f" />  
-      
+       
   
 <img width="1466" alt="Screenshot 2025-02-10 at 20 52 45" src="https://github.com/user-attachments/assets /3a350a7a-2fa3-4ecf-aea8-11d35a906f7c" />
    
